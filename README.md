@@ -1,4 +1,4 @@
 # Sub-Oscillator-Module
-DIY sub oscillator module for eurorack modular synthesizers.
+DIY sub oscillator module for eurorack synthesizers.
 
 IN PROGRESS...
