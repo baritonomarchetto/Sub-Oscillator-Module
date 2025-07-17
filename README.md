@@ -1,6 +1,8 @@
 # Sub-Oscillator-Module
 DIY sub oscillator module for eurorack synthesizers.
 
+![IMG_20250712_164352_risultato](https://github.com/user-attachments/assets/16aa63a0-d239-4083-891b-508f9fadbacd)
+
 # Intro
 Adding a sub-oscillator is a simple way to give a main oscillator some due bottom end.
 
